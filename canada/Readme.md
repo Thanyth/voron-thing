@@ -1,6 +1,6 @@
-# **CANADA STORE**
+# **SHOPPING IN CANADA**
 
 
 ### Next
 
-[Return Home](./README.md)
+[Return Home](~/README.md)
