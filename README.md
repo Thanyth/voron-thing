@@ -1,18 +1,29 @@
 # **Canada VORON Guide(ish)**
 
-While I was browsing through [Voron](https://vorondesign.com/) [Discord canadaland-:canada:  channel](https://discord.gg/voron) in hope to find the best local alternative to the dope [official sourcing guide](https://vorondesign.com/sourcing_guide). I saw that so many other fellow Canadian were looking and/or asking for the same thing.  
+While I was browsing through [Voron](https://vorondesign.com/) [Discord channel canadaland-:canada:](https://discord.gg/voron) in hope to find the best local alternative to the dope [official sourcing guide](https://vorondesign.com/sourcing_guide). I saw that so many other fellow Canadian were looking and/or asking for the same thing.  
   
+___
+### **DISCLAIMER** 
 
+* **THIS GIT IS NOT ENDORSE BY THE VORON DEV TEAM**  
+* **THIS GIT ISN'T ENDORSE BY THEIR DISCORD AND THEIR CANADIAN CHANNEL**  
+* **NO STORE/USER IS PAYING ME TO BE FEATURE HERE**  
+* **OTHER IMPORTANT INFO BELLOW :**
+``` bash
+# (comment by me)
+# Source: Voron Discord Rules and Regulations
+- (Store owner) may not assert, advertise or imply that sales benefit Voron development, consumers should assume that all sales support the vendor alone.
+- No (store owner) should be assumed to have the implied or expressed endorsement of the development team purely by virtue of (being mention on this git)
+```
+---  
+  
 ## General "advices" & informations
-
-#### **OBJECTIF**  
-Help other new Discord user in their hunt for part to build there very first Voron.  
 
 #### **ADVICES ("RULES")**  
 > Side note: I do not want to divide the Canadian traffic between here and the Discord. It's met to be a "bonus" for sourcing in Canada.  
 > The Discord will clearly outlive my git (with the most up-to-date information). Experience are copy-paste from user while keeping their identity anonymous.
   
-*Include vendor, store owner, store employe, store saleman, etc... in the list bellow*  
+*Include vendor, store, store owner, store employe, store saleman, etc... in the list bellow*  
 * No free (or paid) advertisement for any store  
   *Promoting limited time sale or other type of deal is included*   
 * No threats, no ad hominem attacks, no politics or religion, no sexism or racism, no impersonation of other user.
@@ -20,9 +31,10 @@ Help other new Discord user in their hunt for part to build there very first Vor
 * No discussion concerning an user choice of store  
 * No Discord username (or personnal information) of an user should be mention  
    *If you know from whome the experience is, refrain yourself from mentionning it*
+* No user should be assumed to have the endorsement of the Voron dev team    
 * *‹empty›*
 
-Discussion about deal or experience, please do so in the canadaland-:canada:  discord channel.  
+Discussion about deal or experience, please do so in the canadaland-:canada: discord channel.  
 Exemple:  
   * I had a deal with *X* shop and I had gread experience...  
   * This shop isn't great for *X* reason....  
