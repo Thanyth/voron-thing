@@ -1,5 +1,7 @@
 # **SHOPPING IN CANADA**
- 
+
+## **001 – FASTENERS**
+
 - Store must have at least one (1) physical location in Canada  
   *include online only Canadian own and oparate company*
 - Customer review must be from the canadaland channel  
@@ -13,10 +15,12 @@
 The number of user is based on a channel specific search. I probably have missed a few review.  
 The number of Serial user is time specific, meaning at the time of my search they have been through the process of getting one.  
 
-This section focus more on the user experience (including where) than why shopping locally. For or against it, here it is not the place to debate.  
+This section focus more on the user experience (including where) than why shopping locally. For or against it, here it is not the place to debate.
 
-## **Table of contents**
-1. [Fasteners](001FastenersCAD.md)  
+
+---
+### **Table of contents**
+1. Fasteners *(You are here)*  
 2. [Filaments](002FilamentsCAD.md)  
 3. [Motions](003MotionsCAD.md)  
 4. [Electronics](004ElectronicsCAD.md)
@@ -27,6 +31,4 @@ This section focus more on the user experience (including where) than why shoppi
 9. [Buildplate](009BuildplateCAD.md)  
 10. [Misc](010MiscCAD.md)
 
----
-### Next
-[Return Home](../README.md)
+### [Return Home](../README.md)

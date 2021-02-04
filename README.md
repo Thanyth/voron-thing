@@ -1,8 +1,12 @@
 # **Canada VORON Guide(ish)**
 
 While I was browsing through [Voron](https://vorondesign.com/) [Discord channel canadaland-:canada:](https://discord.gg/voron) in hope to find the best local alternative to the dope [official sourcing guide](https://vorondesign.com/sourcing_guide). I saw that so many other fellow Canadian were looking and/or asking for the same thing.  
-  
+
 ___
+# **:exclamation: GIT UNDER CONSTRUCTION :exclamation:**  
+---  
+  
+___ 
 ### **DISCLAIMER** 
 
 * **THIS GIT IS NOT ENDORSE BY THE VORON DEV TEAM**  
@@ -14,7 +18,7 @@ ___
 # (comment by me)
 # Source: Voron Discord Rules and Regulations
 - (Store owner) may not assert, advertise or imply that sales benefit Voron development, consumers should assume that all sales support the vendor alone.
-- No (store owner) should be assumed to have the implied or expressed endorsement of the development team purely by virtue of (being mention on this git)
+- No (store owner) should be assumed to have the implied or expressed endorsement of the development team purely by virtue of (being mention on this git). 
 ```
 ---  
   

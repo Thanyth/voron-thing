@@ -1,4 +1,6 @@
 # **SHOPPING IN CANADA**
+
+## **002 – FILAMENTS**
  
 - Store must have at least one (1) physical location in Canada  
   *include online only Canadian own and oparate company*
@@ -15,9 +17,10 @@ The number of Serial user is time specific, meaning at the time of my search the
 
 This section focus more on the user experience (including where) than why shopping locally. For or against it, here it is not the place to debate.  
 
-## **Table of contents**
+---
+### **Table of contents**
 1. [Fasteners](001FastenersCAD.md)  
-2. [Filaments](002FilamentsCAD.md)  
+2. Filaments *(You are here)*  
 3. [Motions](003MotionsCAD.md)  
 4. [Electronics](004ElectronicsCAD.md)
 5. [Controller](005ControllerCAD.md)  
@@ -27,6 +30,4 @@ This section focus more on the user experience (including where) than why shoppi
 9. [Buildplate](009BuildplateCAD.md)  
 10. [Misc](010MiscCAD.md)
 
----
-### Next
-[Return Home](../README.md)
+### [Return Home](../README.md)
