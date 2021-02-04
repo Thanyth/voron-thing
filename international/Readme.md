@@ -16,6 +16,7 @@ The number of Serial user is time specific. Meaning at the time of my search, th
 This section is less "usefull" than the Canadian one. It focus more on reason why to go international than where. But both are feature.  
 Some category of part are just easier and cheaper to buy international. Those one are the real focus of this part.  
 
+---
 ## **Table of contents**
 1. [Fasteners](001FastenersINT.md)  
 2. [Filaments](002FilamentsINT.md)  
@@ -28,6 +29,4 @@ Some category of part are just easier and cheaper to buy international. Those on
 9. [Buildplate](009BuildplateINT.md)  
 10. [Misc](010MiscINT.md)
 
----
-### Next
-[Return Home](../README.md)
+#### [Return Home](../README.md)
