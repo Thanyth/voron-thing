@@ -9,39 +9,55 @@ ___
 ___ 
 ### **DISCLAIMER** 
 
-* **THIS GIT IS NOT ENDORSE BY THE VORON DEV TEAM**  
-* **THIS GIT ISN'T ENDORSE BY THEIR DISCORD AND THEIR CANADIAN CHANNEL**  
-* **NO STORE/USER IS PAYING ME TO BE FEATURE HERE**  
-* **I DON'T OWN A VORON** (yet)  
-* **FOR THE LATEST DEAL/SALE, VISIT THE CANADA CHANNEL ON VORON DISCORD SERVER**
----  
-  
+* **THIS GIT IS __NOT__ ENDORSE BY THE VORON DEVELOPMENT TEAM**  
+* **COMPANY (STORE) MENTION IN THIS REPOSITORY ARE NOT PAYING (SPONSORSHIP) TO BE FEATURE**  
+ 
+**Comments on this [repository] are the sole responsibility of their writers and the writers will take full responsibility, liability, and blame for any libel or litigation that result from something written in or as a direct result of something written in a comment.**  
+ 
+**The views and opinions expressed in this [repository] are those of [their writers] and do not necessarily reflect the official policy or position of any other agency, organization, employer or company.** *[-source](http://postgrowth.org/legal/)*  
+
+
+***  
+<!---
+### HELPFULL RESSOURCE
+- [Anchors in Markdown](https://gist.github.com/asabaylus/3071099)  
+- [Multi-line in table](https://github.com/markdown-it/markdown-it/issues/406#issuecomment-518032918)   
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)  
+- [Disclaimer](https://www.termsfeed.com/legal/privacy-policy/)  
+- [Disclaimer exemple](https://www.termsfeed.com/blog/disclaimer-examples/)
+--->
+   
 ## General "advices" & informations
 
-#### **ADVICES ("RULES")**  
+#### **INFORMATION**  
 > **Side note:** I do not want to divide the Canadian traffic between here and the Discord. It's met to be a "bonus" for sourcing in Canada.  
 > The Discord will clearly outlive my git (with the most up-to-date information). Experience are copy-paste from user while keeping their identity anonymous.  
 >  
 > **Side note 2:** Please do not clone (fork) my repository if you don't like how I write it. It will divide even more how Canadian hunt for the best Voron part deal. The best way to help is to open an issue and explain why you would change something. Or clone it and "pull request" (whatevet that thing is) so I can verify what you are contributing (and verify if needed). But if you do want to take the runner position, ask me and I will archive my repository so people will go to your's for the must up to date information.  
 > 
-> You could always hit me up in discord (DM), I don't bite
+> You could always hit me up in discord (DM) for discussion.
   
 * No free (or paid) advertisement for any store  
-  *Promoting limited time sale or other type of deal is included*    
+  *Promoting limited time sale or other type of deal are included.*    
+
 * No Discord username (or personnal information) should be mention  
-  *If you know from whome the experience is, don't mention it. Else your comment will be deleted*
-* No user should be assumed to have the endorsement of the Voron dev team   
+  *If you wish to remove a user experience, please contact me.*  
+  *Please note that I may ask you to verify your identity before accepting such request.*
+   
+* No user should be assumed to have the endorsement of the Voron development team   
+ 
 * No question/discussion about Voron printer    
-  ***You want to know more about Voron? (Parts, Vendors, Troubleshooting, Documentation...) Go elsewhere***   
+  *Voron development team are doing a trumendous job of keeping the community in one place.*  
+  ***You want to know more about Voron? (Parts, Vendors, Troubleshooting, Documentation...)***  
+  ***Their discord server is the best place to start*** 
   > You have question concerning:  
   > What is sourcing part? What is a Voron 3D printer? What filament they use or why? How can you contribute? Where to get one...?  
-  Voron development team are doing a trumendous job of keeping the community in one place. That place is their Discord server, so go there.
+  
+* I DON'T OWN A VORON (yet)  
 
-
-Discussion about deal or experience, please do so in the canadaland-:canada: discord channel, it will help more people there then here.  
- **ANY ISSUE OPEN IN THAT REGARD WILL BE DELETED/CLOSED**  
- > *I don't know the limitation of GitHub and Git. If I can do something I will, don't know how yet.*
-
+***
+Discussion about deal or experience, please do so in the canadaland-:canada: discord channel, it will help more people there.  
+ 
 Exemple (but not limited to):  
   * I had a deal with *X* shop and I had gread experience...  
   * This shop isn't great for *X* reason....  
@@ -66,8 +82,9 @@ Looking for international store that Canadian have shopped to? [Click here](inte
 Thing left to do or need to be done. You can always join the party, hit me up on Discord on how to help.  
 Canadian section :  
 - [ ] **001 Fasteners**  
-     - [ ] Transfering the PIN by me here  
+     - [x] Transfering the PIN by me here  
      - [ ] Adding a link in the same PIN to this repository  
+     - [ ] Adding information for each store/shop  
 - [ ] **002 Filaments** 
      - [ ] Searching user rating on Discord  
      - [ ] Transfering it to GSheet
