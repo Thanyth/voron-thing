@@ -1,11 +1,11 @@
 # **Canada VORON Guide(ish)**
 
 While I was browsing through [Voron](https://vorondesign.com/) [Discord channel canadaland-:canada:](https://discord.gg/voron) in hope to find the best local alternative to the dope [official sourcing guide](https://vorondesign.com/sourcing_guide). I saw that so many other fellow Canadian were looking and/or asking for the same thing.  
-
+ 
+This repository aim at helping Canadian find where to source locally. It include how many people have *vouch* for their experience with certain shop. All quote are direct copy of a user reply from Discord. 
 ___
 # **:exclamation: GIT UNDER CONSTRUCTION :exclamation:**  
----  
-  
+
 ___ 
 ### **DISCLAIMER** 
 
@@ -13,13 +13,7 @@ ___
 * **THIS GIT ISN'T ENDORSE BY THEIR DISCORD AND THEIR CANADIAN CHANNEL**  
 * **NO STORE/USER IS PAYING ME TO BE FEATURE HERE**  
 * **I DON'T OWN A VORON** (yet)  
-* **OTHER IMPORTANT INFO BELLOW :**
-``` bash
-# (comment by me)
-# Source: Voron Discord Rules and Regulations
-- (Store owner) may not assert, advertise or imply that sales benefit Voron development (...)
-- No (store owner) should be assumed to have the implied or expressed endorsement of the (Voron) development team purely by virtue of (being mention on this git). 
-```
+* **FOR THE LATEST DEAL/SALE, VISIT THE CANADA CHANNEL ON VORON DISCORD SERVER**
 ---  
   
 ## General "advices" & informations
@@ -37,15 +31,16 @@ ___
 * No Discord username (or personnal information) should be mention  
   *If you know from whome the experience is, don't mention it. Else your comment will be deleted*
 * No user should be assumed to have the endorsement of the Voron dev team   
-* No question about Voron printer including no discussion    
+* No question/discussion about Voron printer    
   ***You want to know more about Voron? (Parts, Vendors, Troubleshooting, Documentation...) Go elsewhere***   
   > You have question concerning:  
-  > What is sourcing part? What is a Voron 3D printer? What filament they use or why? How can you contribute? Where to get one...? Voron development team are doing a trumendous job of keeping the community in one place. That place is their Discord server, so go there.
+  > What is sourcing part? What is a Voron 3D printer? What filament they use or why? How can you contribute? Where to get one...?  
+  Voron development team are doing a trumendous job of keeping the community in one place. That place is their Discord server, so go there.
 
 
 Discussion about deal or experience, please do so in the canadaland-:canada: discord channel, it will help more people there then here.  
-  **ANY ISSUE OPEN IN THAT REGARD WILL BE DELETED/CLOSED**  
-  > *I don't know the limitation of GitHub and Git. If I can do something I will, don't know how yet.*
+    **ANY ISSUE OPEN IN THAT REGARD WILL BE DELETED/CLOSED**  
+      > *I don't know the limitation of GitHub and Git. If I can do something I will, don't know how yet.*
 
 Exemple (but not limited to):  
   * I had a deal with *X* shop and I had gread experience...  
@@ -65,6 +60,14 @@ Exemple (but not limited to):
 Looking for stores within Canada? [Click here](canada/Readme.md)  
 
 Looking for international store that Canadian have shopped to? [Click here](international/Readme.md)
+
+
+## To be determined list 
+Thing left to do or need to be done. You can always join the party, hit me up on Discord on how to help.  
+  [ ] 001 Fasteners CAD  
+      - Transfering the PIN by me here  
+      - W  
+
 
 <!--- Other section? --->
 
