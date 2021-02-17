@@ -4,14 +4,15 @@
   *include online only Canadian own and oparate company*
 - Customer review must be from the canadaland channel  
   *either good or bad experience are welcome, while respecting the discord server rules and regulations*
-- No price are shown  
-  *price within a review are cut from it*
+- No price, deal, sale are shown  
+  *any type of sale/deal are exclude of a user review*
 - Store website are __not__ affiliate link  
-  *I don't even know how to get an affiliate link*
+  *if affiliate link is used, disclaimer shall be include for those links*  
+  *whom benifit from this kickback/commmission shall be mention*
 
 **INFORMATION**  
 The number of user is based on a channel specific search. I probably have missed a few review.  
-The number of Serial user is time specific, meaning at the time of my search they have been through the process of getting one.  
+The number of Serial user is time specific, meaning at the time of my search they have been through the process of getting one (and received one).  
 
 This section focus more on the user experience (including where) than why shopping locally. For or against it, here it is not the place to debate.  
 

@@ -1,8 +1,48 @@
 # **SHOPPING IN CANADA**
 
-## **001 – FASTENERS**
+**:exclamation: UNDER CONSTRUCTION :exclamation:**
 
-**UNDER CONSTRUCTION**
+## **001 – FASTENERS**
+  
+### **GRAINGER**
+ 
+| USER  | SERIAL                | REPLY                                                                 |
+| ----  |:---------------------:| ---------------------------------------------------------------------:|
+| A     | V2 (1x)               | granger                                                               |
+| B     | V2 (1x)               | mmm |
+| C     | V2 (1x)               | mmm |
+| D     | V1 (1x)               | mmm |
+|       | V0(1x)                |     |  
+| E     |                | mmm |
+| F     |                | mmm |
+| G     |                | mmm |
+| H     |                | mmm |
+| I     |                | mmm |
+  
+### **GRAINGER**
+ 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+  
+### **GRAINGER**
+ 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+  
+### **GRAINGER** 
+ 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ---
 ### **Table of contents**

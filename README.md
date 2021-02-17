@@ -114,7 +114,7 @@ International section :
 
 ## Author note
 
-I'm French Canadian (Québec, QC)!  
+I'm French Canadian (Québec)!  
 You will see many grammar error, sorry for that. I'm doing it for the fun of it. I will try my best to make your grammar class happy.  
 Update are not schedule, they will be surprise.  
 > *-Thanyth* 
