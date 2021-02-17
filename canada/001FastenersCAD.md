@@ -8,9 +8,9 @@
 - [Fastenals](#fastenals)  
 - [Spaenaur](#spaenaur)  
 - [Ottawa Fastener Supply](#ottawa-fastener-supply)  
-- [BC Fasteners & Tools ltd](#bc-fasteners-&-tools-ltd)  
+- [BC Fasteners & Tools ltd](#bc-fasteners--tools-ltd)  
 - [Strathcon](#strathcon)  
-- [Edmonton Nut & Bolt](#edmonton-nut-&-bolt)  
+- [Edmonton Nut & Bolt](#edmonton-nut--bolt)  
 - [Gould Fasteners Limited](#gould-fasteners-limited)  
 - [Trans-World Distributing ltd](#trans-world-distributing-ltd)  
 - [Great Hobbies](#great-hobbies)  
@@ -35,6 +35,7 @@ Last updated: 2021/02/17
 | G     | V2 (1x)                                                    | <p>Grainger if you want to “individually” package your own<br>*[redacted]* also have an Amazon store with similar pricing and you get it in a couple of days.<br>I would buy bulk. The prepackaged stuff from questionable vendors like *[redacted]* is not a good idea. They pack exact amount. If you lose one, you’re screwed.<br>It’s good to have extras. You’ll want to do some mods or future upgrades.</p> |
 | H     | *empty* | <p><br></p> |
 | I     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -51,6 +52,7 @@ Last updated: 2021/02/17
 | C     | V2 (1x)                                                    | <p>agreed<br>I would stay clear of Fastenal unless its a really small order as they have stopped selling to consumers, you need a business account to order and they check a whole host of things in the application including the businesses financials<br>I was able to sneak in one order of Loctite since they are the only supplier for it around here<br>otherwise you need a business account</p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 *** 
  
@@ -67,6 +69,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -83,6 +86,7 @@ Last updated: 2021/02/17
 | C     | VK(1x)                                                     | <p>Just mention me if you want me to dig up what I have if it helps you out! I'm in *[place redacted]* so not too far, I sent *[username redacted]* some stuff before from a *[competitor redacted]* order.<br>Problem is time vs money</p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -99,6 +103,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
 
@@ -115,6 +120,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -131,6 +137,7 @@ Last updated: 2021/02/17
 | C     | V2 (1x)                                                    | <p>Also purchased from Edmonton Nut and Bolt - yes, it is the same company as Nisku Nut and Bolt. Friendly staff, good for when I need some fasteners in the next 20 minutes instead of waiting for shipping. They've always had everything I've needed, but I haven't tried to get a ton of different things.</p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -147,6 +154,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -163,6 +171,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -179,6 +188,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -195,6 +205,7 @@ Last updated: 2021/02/17
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
+
 [Back to top](#001-fasteners)
 ***
  
@@ -211,6 +222,7 @@ Last updated: 2021/02/17
 | C     |                | <p><br></p> |
 | D     |                | <p><br></p> |
 | E     |                | <p><br></p> |
+
 [Back to top](#001-fasteners)  
 
 ***
