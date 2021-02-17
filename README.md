@@ -39,8 +39,8 @@ ___
 
 
 Discussion about deal or experience, please do so in the canadaland-:canada: discord channel, it will help more people there then here.  
-    **ANY ISSUE OPEN IN THAT REGARD WILL BE DELETED/CLOSED**  
-      > *I don't know the limitation of GitHub and Git. If I can do something I will, don't know how yet.*
+ **ANY ISSUE OPEN IN THAT REGARD WILL BE DELETED/CLOSED**  
+ > *I don't know the limitation of GitHub and Git. If I can do something I will, don't know how yet.*
 
 Exemple (but not limited to):  
   * I had a deal with *X* shop and I had gread experience...  
@@ -64,10 +64,51 @@ Looking for international store that Canadian have shopped to? [Click here](inte
 
 ## To be determined list 
 Thing left to do or need to be done. You can always join the party, hit me up on Discord on how to help.  
-  [ ] 001 Fasteners CAD  
-      - Transfering the PIN by me here  
-      - W  
+Canadian section :  
+- [ ] **001 Fasteners**  
+     - [ ] Transfering the PIN by me here  
+     - [ ] Adding a link in the same PIN to this repository  
+- [ ] **002 Filaments** 
+     - [ ] Searching user rating on Discord  
+     - [ ] Transfering it to GSheet
+     - [ ] Adding it here   
+- [ ] *003 Motions*
+     - [ ] *Choosing if section is needed*  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*   
+- [ ] *004 Electronics* 
+     - [ ] *Choosing if section is needed*  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*  
+- [ ] *005 Controller* 
+     - [ ] *Choosing if section is needed*  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*   
+- [ ] *006 Frame* 
+     - [ ] *Choosing if section is needed*  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*   
+- [ ] *007 Cables* 
+     - [ ] *Choosing if section is needed*  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*  
+- [ ] **008 Panels**   
+     - [ ] Searching user rating on Discord  
+     - [ ] Transfering it to GSheet   
+- [ ] **009 Build plate** 
+     - [ ] Searching user rating on Discord  
+     - [ ] Transfering it to GSheet    
+- [ ] *010 Misc* 
+     - [ ] *Choosing if section is needed*  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*
 
+
+International section :  
+- [ ] **All section**  
+     - [ ] Choosing if section is needed  
+     - [ ] *Searching user rating on Discord*  
+     - [ ] *Transfering it to GSheet*  
 
 <!--- Other section? --->
 
