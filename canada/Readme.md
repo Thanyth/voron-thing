@@ -9,12 +9,13 @@
 - Store website are __not__ affiliate link  
   *if affiliate link is used, disclaimer shall be include for those links*  
   *whom benifit from this kickback/commmission shall be mention*
-- Quote containing other shop name have that shop name hidden  
-  *user experience concerning a shop that containt other shop within won't be display*  
+- Quote containing other shop name (competitor) are redact from it   
+  *user experience concerning a shop competitor within won't be display*  
   *the goal is to not put more than one shop per comment/user*  
-  > *might change, to be determined*  
+  > *might change, to be determined*
 - Quote are not including the complete conversation  
   *long quote are not shorten, so they might include other reply to other people question*  
+  *some user have share more than one time their experience, the most helpful one is shown*
 
 **INFORMATION**  
 The number of user is based on a channel specific search. I probably have missed a few review.  
@@ -36,3 +37,4 @@ This section focus more on the user experience (including where) than why shoppi
 10. [Misc](010MiscCAD.md)
 
 #### [Return Home](../README.md)
+ 
