@@ -82,7 +82,7 @@ Last updated: 2021/02/17
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
-| A     | <p>V2 (1x)</br>V0 (1x)</p>                                 | <p>Hey man, check out Ottawa Fastener Supply if you haven't. They've got two locations in Ottawa. I've only been to the Hawthorne location, which I think is smaller of the two, but it is amazing. So many metric screws in stock. Also you you give them a BOM they'll order anything they don't have on hand. Prices were even better than ordering off ali.</p> |
+| A     | <p>V2 (1x)</br>V0 (1x)</p>                                 | <p>Hey man, check out Ottawa Fastener Supply if you haven't. They've got two locations in Ottawa. I've only been to the *[place redacted]* location, which I think is smaller of the two, but it is amazing. So many metric screws in stock. Also you you give them a BOM they'll order anything they don't have on hand. Prices were even better than ordering off ali.</p> |
 | B     | N/A                                                        | <p>Gotcha. Ottawa Fastener Supply carries anything under the sun (or can order it) and prices range from 0.10 to 0.25 per fastener (full 2.4 set was about 60-65$ in fasteners). Not sure what *[redacted]* prices are like. I'm happy to ship you fasteners from my local source here at cost if you can't find anything elsewhere, just lmk<br>They've been awful with emails. I sent them around 7 messages over the course of a month to coordinate a curbside pickup<br>Got a few answers then radio silence<br>ended up going in and doing it myself</p> |
 | C     | VK(1x)                                                     | <p>Just mention me if you want me to dig up what I have if it helps you out! I'm in *[place redacted]* so not too far, I sent *[username redacted]* some stuff before from a *[competitor redacted]* order.<br>Problem is time vs money</p> |
 | D     | *empty* | <p><br></p> |
@@ -134,7 +134,7 @@ Last updated: 2021/02/17
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
 | A     | V2 (1x)                                                    | <p>Did you check with Edmonton Nut and Bolt? They had, I'd say 90% when I was starting my V2<br>I will second *[username redacted]*'s experience with Edmonton nut and bolt. Always friendly and helpful. Most of my original V2 (beta)'s fasteners came from them.</p> |
-| B     | <p>V1 (1x)</br>V0 (1x)</p>                                 | <p>I don't think I reached out to them.. I did email 3 stores around here though and no email responses, but called one and they coudn't get most of the bits<br>checked my emails.. I didn't email Edmonton Nut and Bolt, but did email Nisku Nut and Bolt *[(same company)]*<br>Third on them.. but phone or drop by, email is kind of useless there</p> |
+| B     | <p>V1 (1x)</br>V0 (1x)</p>                                 | <p>I don't think I reached out to them.. I did email 3 stores around here though and no email responses, but called one and they coudn't get most of the bits<br>checked my emails.. I didn't email Edmonton Nut and Bolt, but did email Nisku Nut and Bolt *[(same company, other location)]*<br>Third on them.. but phone or drop by, email is kind of useless there</p> |
 | C     | V2 (1x)                                                    | <p>Also purchased from Edmonton Nut and Bolt - yes, it is the same company as Nisku Nut and Bolt. Friendly staff, good for when I need some fasteners in the next 20 minutes instead of waiting for shipping. They've always had everything I've needed, but I haven't tried to get a ton of different things.</p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
@@ -301,7 +301,6 @@ Last updated: 2021/xx/xx
 
 
 
-***
 ---
 ### **Table of contents**
 1. Fasteners *(You are here)*  

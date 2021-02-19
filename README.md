@@ -1,4 +1,5 @@
 # **Canadian Sourcing Help for VORON printer**
+> NOTE: Title still to be determined. Suggestion is open.
 
 While I was browsing through [Voron](https://vorondesign.com/) [Discord channel canadaland-:canada:](https://discord.gg/voron) in hope to find the best local alternative to the dope [official sourcing guide](https://vorondesign.com/sourcing_guide). I saw that so many other fellow Canadian were looking and/or asking for the same thing.  
  
