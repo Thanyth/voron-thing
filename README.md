@@ -28,7 +28,7 @@ ___
 - [Disclaimer exemple](https://www.termsfeed.com/blog/disclaimer-examples/)
 --->
    
-## General "advices" & informations
+## **General "advices" & informations**
 
 #### **INFORMATION**  
 > **Side note:** This is a "bonus" for sourcing in Canada. Their Discord will clearly outlive my git (with the most up-to-date information).  
@@ -55,97 +55,112 @@ ___
   > What is sourcing part? What is a Voron 3D printer? What filament they use or why? How can you contribute? Where to get one...?  
   
 * **DISCUSSION ABOUT DEAL, SALE, SOURCING, ETC... ARE FORBIDDEN**  
-  Exemple (but not limited to):  
-  * I had a deal with *X* shop and I had gread experience...  
-  * This shop isn't great for *X* reason....  
-  * Where I can find *X* thing locally in the sourcing guide?...  
-  * What's the best place to buy for *X*, locally or internationnal (ali)...  
+  - Exemple (but not limited to):  
+    * I had a deal with *X* shop and I had gread experience...  
+    * This shop isn't great for *X* reason....  
+    * Where I can find *X* thing locally in the sourcing guide?...  
+    * What's the best place to buy for *X*, locally or internationnal (ali)...  
   
-  Open an issue only if you don't think it could be usefull for the Voron Canadian community.  
-  Exemple (but not limited to):  
-  * The link of *X* store isn't working...
-  * This *X* store is not longer located at *X* place, it is now there *X*...
-  * *X* store have change name and now it is *X*...
+  - Open an issue only if you don't think it could be usefull for the Voron Canadian community.  
+    Exemple (but not limited to):  
+    * The link of *X* store isn't working...
+    * This *X* store is not longer located at *X* place, it is now there *X*...
+    * *X* store have change name and now it is *X*...
 
-* I don't own a Voron 3D Printer (yet)  
+* I don't own a Voron 3D Printer  
   
 
-## Tables of content 
+## **Tables of content** 
 
-1. Looking for stores within Canada? [Click here](canada/Readme.md)  
-
+1. Hunting for stores within Canada? [Click here](canada/Readme.md)  
+     
 2. Looking for international store that Canadian have shopped to? [Click here](international/Readme.md)
 
+3. Searching for an exemple of a non-exclusive build of material (BOM) to start with? [Click here](bom-exemple/Readme.md)  
+ 
 
-## To be determined list 
+## **To be determined list** 
 Thing left to do or need to be done. You can always join the party, hit me up on Discord on how to help.  
-Canadian section :  
+   
+#### **CANADIAN CATEGORY**  
 - [ ] **001 Fasteners**  
      - [x] Transfering the PIN by me here  
      - [ ] Link in the Discord PIN to this repository  
-     - [ ] Store/shop information (location, website...)
-     - [ ] Summary *(TLDR ish)* of reasons people bought there/doesn't advice  
+     - [x] Store/shop information (location, website...)
+     - [x] Summary *(TLDR ish)* of reasons people bought there/doesn't advice
+     - [ ] Refer to exemple BOM    
 - [ ] **002 Filaments** 
      - [ ] Searching user rating on Discord  
      - [ ] Transfering it to GSheet
-     - [ ] Adding it here   
+     - [ ] Adding it here
+     - [ ] Store(s) location
+     - [ ] Summary of user experience and the most recommended one (if)
 - [ ] *003 Motions*
      - [ ] *Choosing if section is needed*  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     --->  
 - [ ] *004 Electronics* 
-     - [ ] *Choosing if section is needed*  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     --->  
+     - [ ] *Choosing if section is needed*   
 - [ ] *005 Controller* 
      - [ ] *Choosing if section is needed*  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     --->   
 - [ ] *006 Frame* 
-     - [ ] *Choosing if section is needed*  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     --->   
+     - [ ] *Choosing if section is needed*   
 - [ ] *007 Cables* 
      - [ ] *Choosing if section is needed*  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     ---> 
 - [ ] **008 Panels**   
      - [ ] Searching user rating on Discord  
-     - [ ] Transfering it to GSheet   
+     - [ ] Transfering it to GSheet
+     - [ ] Adding it here
+     - [ ] Store(s) location
+     - [ ] Summary of user experience and the most recommended one (if)   
 - [ ] **009 Build plate** 
      - [ ] Searching user rating on Discord  
-     - [ ] Transfering it to GSheet    
+     - [ ] Transfering it to GSheet
+     - [ ] Adding it here
+     - [ ] Store(s) location
+     - [ ] Summary of user experience and the most recommended one (if)    
 - [ ] *010 Misc* 
      - [ ] *Choosing if section is needed*  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     --->
-
-
-International section :  
+  
+#### **INTERNATIONAL CATEGORY**  
 - [ ] **All section**  
-     - [ ] Choosing if section is needed  
-     <!--- 
-     - [ ] *Searching user rating on Discord*  
-     - [ ] *Transfering it to GSheet* 
-     --->  
-
+     - [ ] Choosing if section is needed   
+ 
+#### **BUILD OF MATERIAL EXEMPLE**
+<!---You could always make a table of content disclaimer once, then repeat or refer to it in each BOM?--->
+- [ ] **VORON v0**  
+     - [ ] Import the BOM and create a file
+     - [ ] About link included and why other shop aren't
+     - [ ] Note on when it was generate and where to be up to date (include disclaimer)
+     - [ ] Markdown flavor for Github table
+     - [ ] Copy paste Gsheet (most be the first one updated)
+     - [ ] Notes column?  
+- [ ] **VORON v1.8**  
+     - [ ] Import the BOM and create a file
+     - [ ] About link included and why other shop aren't
+     - [ ] Note on when it was generate and where to be up to date (include disclaimer)
+     - [ ] Markdown flavor for Github table
+     - [ ] Copy paste Gsheet (most be the first one updated)
+     - [ ] Notes column?  
+- [ ] **VORON v2.4**  
+     - [ ] Import the BOM and create a file
+     - [ ] About link included and why other shop aren't
+     - [ ] Note on when it was generate and where to be up to date (include disclaimer)
+     - [ ] Markdown flavor for Github table
+     - [ ] Copy paste Gsheet (most be the first one updated)
+     - [ ] Notes column?
+- [ ] **VORON vSW**  
+     - [ ] Import the BOM and create a file
+     - [ ] About link included and why other shop aren't
+     - [ ] Note on when it was generate and where to be up to date (include disclaimer)
+     - [ ] Markdown flavor for Github table
+     - [ ] Copy paste Gsheet (most be the first one updated)
+     - [ ] Notes column?
+ 
+ 
 <!--- Other section? --->
 
 ## Author note
 
 I'm French Canadian (Québec)!  
-You will see many grammar error, sorry for that. I will try my best to not get your grammar knowlegde mad.  
-Update are not schedule, they will be spontaneous.  
+I must warn you, the quality of my english isn't the best. You will see many grammer error, sorry in advance!  
+I do not have schedule update, they will be spontaneous.  
 > *-Thanyth* 

@@ -15,15 +15,21 @@
 - [Trans-World Distributing ltd](#trans-world-distributing-ltd)  
 - [Great Hobbies](#great-hobbies)  
 - [SB Simpson Industrial Supplies](#sb-simpson-industrial-supplies)  
-- [Bolts Plus](#bolts-plus) **<- NEW AS OF 2021/02/19**
+- [Bolts Plus](#bolts-plus)  
 - [Empty Spot](#empty-spot)
 
 ___
 
 ### **GRAINGER**
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Most recommended store. Most positive experience.   
+**Stores location:**  
+Alberta(8), British Columbia(6), Manitoba(4), Newfoundland and Labrador(1), Nova Scotia(1), Ontario(5), Québec(3) and Saskatchewan(5)   
+**Website:**  
+[grainger.ca](https://www.grainger.ca/en)   
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
+<!--- https://www.grainger.ca/en/content/find-branch-location --->
 
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
@@ -42,8 +48,13 @@ Last updated: 2021/02/17
  
  
 ### **FASTENALS**
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not recommended store for individual. Most divide user experience.    
+**Stores location:**  
+At least one in every province   
+**Website:**  
+[fastenal.ca](https://www.fastenal.ca/home)      
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
 
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -59,8 +70,13 @@ Last updated: 2021/02/17
  
 
 ### **SPAENAUR**
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Need more user experience to be properly rated.    
+**Store location:**  
+815 Victoria St. N., Kitchener, Ontario N2B 3C3  
+**Website:**  
+[spaenaur.com](https://spaenaur.com/)    
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
 
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -76,8 +92,14 @@ Last updated: 2021/02/17
  
   
 ### **OTTAWA FASTENER SUPPLY** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Could be a recommended place to shop localy.    
+**Stores location:**  
+West End Store – 2205 Robertson Rd. Nepean Ontario, K2H 5Z2  
+East End Store – 3020 Hawthorne Rd. Ottawa, Ontario, K1G 3J6   
+**Website:**  
+[ottawafastenersupply.com](https://www.ottawafastenersupply.com/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -93,8 +115,13 @@ Last updated: 2021/02/17
  
  
 ### **BC FASTENERS & TOOLS LTD** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Stores location:**  
+4 stores in British Columbia – Kelowna, Vernon, Penticton and Kamloop   
+**Website:**  
+[bcfasteners.com](https://bcfasteners.com/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -110,8 +137,13 @@ Last updated: 2021/02/17
 
  
 ### **STRATHCON** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Store location:**  
+Unit 1-2663 Kilpatrick Ave, Courtenay BC, V9N 7C8  
+**Website:**  
+[strathcon.com](https://www.strathcon.com/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -127,8 +159,13 @@ Last updated: 2021/02/17
  
 
 ### **EDMONTON NUT & BOLT** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Great place to shop localy only (in store).    
+**Stores location:**  
+4 stores in Alberta; Edmonton, Nisku, Wetaskiwin, Lloydminster Nut & Bolt  
+**Website:**  
+[edmnut.com](https://www.edmnut.com/index.htm)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -144,10 +181,15 @@ Last updated: 2021/02/17
  
   
 ### **GOULD FASTENERS LIMITED** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Store location:**  
+Head Office – 6209 Northwest Drive, Mississauga, Ontario, L4V 1P6  
+**Website:**  
+[gouldfast.ca](https://www.gouldfast.ca/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
- 
+<!--- www.gouldfast.ca/aboutus/distributor?locale=en --->
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
 | A     | V2 (1x)                                                    | <p> For production quantities check out Gould Fasteners</p> |
@@ -161,8 +203,13 @@ Last updated: 2021/02/17
  
   
 ### **TRANS-WORLD DISTRIBUTING LTD** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Store location:**  
+9 Waddell Ave., Dartmouth, Nova Scotia, B3B 1K4   
+**Website:**  
+[transworldfasteners.ca](https://transworldfasteners.ca/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -178,8 +225,13 @@ Last updated: 2021/02/17
  
  
 ### **GREAT HOBBIES** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not enough user experience to be properly recommended. Not sure why I've included it.    
+**Stores location:**  
+Prince Edward Island(1), Alberta(1) and Ontario(3)  
+**Website:**  
+[greathobbies.com](https://www.greathobbies.com/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -195,8 +247,13 @@ Last updated: 2021/02/17
  
   
 ### **SB SIMPSON INDUSTRIAL SUPPLIES** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Stores location:**  
+4 stores in Ontario – Brampton, Oshawa, Owen Sound and Stratford  
+**Website:**  
+[sbsimpson.com](https://www.sbsimpson.com/)  
+*Last updated: 2021/02/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -212,14 +269,19 @@ Last updated: 2021/02/17
  
   
 ### **BOLTS PLUS** 
-Store information:   
-Last updated: 2021/02/19
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Store location:**  
+14 stores in Ontario – Barrie, Bolton, Brampton, Cambridge, Concord, Etobicoke, Guelph, Hamilton, Mississauga, Newmarket, North York, Oakville, Peterborough and Waterloo  
+**Website:**  
+[boltsplus.ca](https://www.boltsplus.ca/index.php)  
+*Last updated: 2021/02/19*
 <!--- Search was made on: 2021/02/19 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
 | A     | N/A                                                        | <p>Bolts Plus have pretty good price !<br>yes,<br>they don't have price on most stuff on the website, but they will send a quote with very good price ! They were as good or better than *[competitor redacted]* !</p> |
-| B     | *empty* | <p><br></p> |
+| B     | V0 (1x)                                                    | <p>bolt plus is nice, there is one near me</p> |
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
@@ -229,8 +291,13 @@ Last updated: 2021/02/19
 
 
 ### **EMPTY SPOT** 
-Store information:   
-Last updated: 2021/xx/xx
+**Rating:**  
+x    
+**Store location:**  
+x  
+**Website:**  
+[x](x)  
+*Last updated: 2021/xx/xx*
 <!--- Search was made on: 2021/xx/xx --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -242,12 +309,17 @@ Last updated: 2021/xx/xx
 | E     |                | <p><br></p> |
 
 [Back to top](#001-fasteners)
-***
+<!---***
 
-<!---  
+  
 ### **EMPTY SPOT** 
-Store information:   
-Last updated: 2021/02/17
+**Rating:**  
+x    
+**Store location:**  
+x  
+**Website:**  
+[x](x)  
+*Last updated: 2021/xx/xx*
 <!--- Search was made on: 2021/xx/xx ---0>
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -264,8 +336,13 @@ Last updated: 2021/02/17
 
 <!---  
 ### **EMPTY SPOT** 
-Store information:   
-Last updated: 2021/xx/xx
+**Rating:**  
+x    
+**Store location:**  
+x  
+**Website:**  
+[x](x)  
+*Last updated: 2021/xx/xx*
 <!--- Search was made on: 2021/xx/xx ---0>
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -282,8 +359,13 @@ Last updated: 2021/xx/xx
 
 <!---  
 ### **EMPTY SPOT** 
-Store information:   
-Last updated: 2021/xx/xx
+**Rating:**  
+x    
+**Store location:**  
+x  
+**Website:**  
+[x](x)  
+*Last updated: 2021/xx/xx*
 <!--- Search was made on: 2021/xx/xx ---0>
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -298,10 +380,10 @@ Last updated: 2021/xx/xx
 ***
 --->
 
-
-
-
----
+ 
+ 
+ 
+---  
 ### **Table of contents**
 1. Fasteners *(You are here)*  
 2. [Filaments](002FilamentsCAD.md)  
