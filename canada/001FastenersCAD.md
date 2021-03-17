@@ -16,18 +16,20 @@
 - [Great Hobbies](#great-hobbies)  
 - [SB Simpson Industrial Supplies](#sb-simpson-industrial-supplies)  
 - [Bolts Plus](#bolts-plus)  
+- [Canada Bolts](#canada-bolts)
+- [Tenaquip](#tenaquip)
 - [Empty Spot](#empty-spot)
 
 ___
 
 ### **GRAINGER**
 **Rating:**  
-Most recommended store. Most positive experience.   
+Most recommended store with the most positive experience.   
 **Stores location:**  
 Alberta(8), British Columbia(6), Manitoba(4), Newfoundland and Labrador(1), Nova Scotia(1), Ontario(5), Québec(3) and Saskatchewan(5)   
 **Website:**  
 [grainger.ca](https://www.grainger.ca/en)   
-*Last updated: 2021/02/17*
+*Last updated: 2021/03/17*
 <!--- Search was made on: 2021/01/18 --->
 <!--- https://www.grainger.ca/en/content/find-branch-location --->
 
@@ -40,8 +42,10 @@ Alberta(8), British Columbia(6), Manitoba(4), Newfoundland and Labrador(1), Nova
 | E     | <p>V2 (1x)</br>VS (1x)</p>                                 | <p>The only thing I reliably sourced in Canada was the fasteners at graingers. There are a few people on one of the main build channels that tried sourcing from the states only and it adds a fair chunk the to the cost. Up here our choices are even slimmer and pricier. I think it's *[redacted]* that has a lot of parts  but you're probably going to end up paying 20 or 30% than what you would pay getting it yourself.</p> |
 | F     | V2 (1x)                                                    | <p>Grainger is surprisingly cost effective, as long as you want big bags of fasteners (and of course you do!)</p> |
 | G     | V2 (1x)                                                    | <p>Grainger if you want to “individually” package your own<br>*[redacted]* also have an Amazon store with similar pricing and you get it in a couple of days.<br>I would buy bulk. The prepackaged stuff from questionable vendors like *[redacted]* is not a good idea. They pack exact amount. If you lose one, you’re screwed.<br>It’s good to have extras. You’ll want to do some mods or future upgrades.</p> |
-| H     | *empty* | <p><br></p> |
-| I     | *empty* | <p><br></p> |
+| H     | <p>VK (1x)</br>V1 (1x)</p>                                 | <p>Oh sorry I thought you were just making a list of people right now not getting the data :slight_smile: <br>Yeah they had everything for M3/M5 basically, and the 8$ flat rate shipping, they will also split up your orders if needed with no extra shipping costs.<br>I'd say we could probably make a BOM for Grainger to single-handedly source most of the hardware?</p> |
+| I     | <p>V2 (1x)</br>V0 (1x)</p>                                 | <p>Yeah I ordered ep2 + the loctite shaft compound from them, 8$ shipping, and it was here 2 days later in two shipments.<br>cant complain for sure, also local pickup if you're near their locations is a perk.</p> |
+| J     | *empty* | <p><br></p> |
+| K     | *empty* | <p><br></p> |
 
 [Back to top](#001-fasteners)
 ***
@@ -54,7 +58,7 @@ Not recommended store for individual. Most divide user experience.
 At least one in every province   
 **Website:**  
 [fastenal.ca](https://www.fastenal.ca/home)      
-*Last updated: 2021/02/17*
+*Last updated: 2021/03/17*
 <!--- Search was made on: 2021/01/18 --->
 
 | USER  | SERIAL                                                     | REPLY                                                                  |
@@ -62,8 +66,9 @@ At least one in every province
 | A     | <p>V2 (2x)<br>V1 (1x)<br>V0 (1x)<br>VS (1x)</p>            | <p>fastenal kinda requires a business account for bulk orders and online, but if theres a location that allows walkins, you can go there for items<br>there not a retail store, they are setup for commercial/industrial sales mostly</p> |
 | B     | V2 (1x)                                                    | <p>Ya - I've had about 50% success walking into random Fastenal locations to buy the odd thing - sometimes its "no account, no sale", other times its "no problem, cash account"<br>I have purchased from Fastenal before - 50/50 chance depending on the location you try that they will deal with you as a non-business. The location near my house won't talk to me, but the location near *[place redacted]* is happy to.</p> |
 | C     | V2 (1x)                                                    | <p>agreed<br>I would stay clear of Fastenal unless its a really small order as they have stopped selling to consumers, you need a business account to order and they check a whole host of things in the application including the businesses financials<br>I was able to sneak in one order of Loctite since they are the only supplier for it around here<br>otherwise you need a business account</p> |
-| D     | *empty* | <p><br></p> |
+| D     | <p>V2 (1x)</br>V0 (1x)</p>                                 | <p>fastenal is like that too depending on the dude at the counter<br>I needed a huge 18mm allen socket, which they sell, they wanted an account or wouldnt sell it to me. When I proposed opening an account he got super upset saying no kid (i was like *[age redacted]* at the time) has a company. so I produced the registration information on the cra site, he got pissed and said i'll sell it for cash this time only. havent gone back there lol<br>that was ~ 14-15 years ago lol<br>havent been back</p> |
 | E     | *empty* | <p><br></p> |
+| F     | *empty* | <p><br></p> |
 
 [Back to top](#001-fasteners)
 *** 
@@ -121,13 +126,13 @@ Not enough user experience to be properly recommended.
 4 stores in British Columbia – Kelowna, Vernon, Penticton and Kamloop   
 **Website:**  
 [bcfasteners.com](https://bcfasteners.com/)  
-*Last updated: 2021/02/17*
+*Last updated: 2021/03/17*
 <!--- Search was made on: 2021/01/18 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
 | A     | V2 (1x)                                                    | <p>bc fastener, *[competitor redacted]*<br>not as cheap as *[competitor redacted]*<br>but better than waiting<br>i bought hardware from BC Fasteners, and *[competitor redacted]*, and both came within a week or two</p> |
-| B     | *empty* | <p><br></p> |
+| B     | <p>V2 (1x)</br>V0 (1x)</p>                                 | <p>i've ordered tools from bc fasteners, some good deals to be had occasionally</p> |
 | C     | *empty* | <p><br></p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
@@ -270,19 +275,19 @@ Not enough user experience to be properly recommended.
   
 ### **BOLTS PLUS** 
 **Rating:**  
-Not enough user experience to be properly recommended.    
+Could be a recommended place to shop as more user are buying there.    
 **Store location:**  
 14 stores in Ontario – Barrie, Bolton, Brampton, Cambridge, Concord, Etobicoke, Guelph, Hamilton, Mississauga, Newmarket, North York, Oakville, Peterborough and Waterloo  
 **Website:**  
 [boltsplus.ca](https://www.boltsplus.ca/index.php)  
-*Last updated: 2021/02/19*
+*Last updated: 2021/03/17*
 <!--- Search was made on: 2021/02/19 --->
  
 | USER  | SERIAL                                                     | REPLY                                                                  |
 |:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
-| A     | N/A                                                        | <p>Bolts Plus have pretty good price !<br>yes,<br>they don't have price on most stuff on the website, but they will send a quote with very good price ! They were as good or better than *[competitor redacted]* !</p> |
-| B     | V0 (1x)                                                    | <p>bolt plus is nice, there is one near me</p> |
-| C     | *empty* | <p><br></p> |
+| A     | V2 (1x)                                                    | <p>Bolts Plus have pretty good price !<br>yes,<br>they don't have price on most stuff on the website, but they will send a quote with very good price ! They were as good or better than *[competitor redacted]* !<br>I love Bolts Plus, the only thing I hate about them is the website without price<br>but they are quick to give quote and good pricing (considering I do not have a commercial account with them)</p> |
+| B     | V0 (1x)                                                    | <p>bolt plus is nice, there is one near me<br>and if they know you by name, they can give you deals<br>i get % off tools etc.. they sell wera</p> |
+| C     | N/A                                                        | <p>Bolts plus has excellent customer service and was able to supply the initial quote quickly. Price was fair for fasteners, and they were able to find a good shipping solution. They had most of the fasteners required for the 2.2 build and what they didn't have were able to get.</p> |
 | D     | *empty* | <p><br></p> |
 | E     | *empty* | <p><br></p> |
  
@@ -290,6 +295,50 @@ Not enough user experience to be properly recommended.
 ***
 
 
+### **TENAQUIP** 
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Store location:**  
+Alberta(2), British Columbia(5), Northwest Territories(1), Ontario(5), Québec(1) and Yukon(1)  
+**Website:**  
+[tenaquip.com](https://www.tenaquip.com/)  
+*Last updated: 2021/03/17*
+<!--- Search was made on: 2021/xx/xx --->
+ 
+| USER  | SERIAL                                                     | REPLY                                                                  |
+|:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
+| A     | N/A                                                        | <p>Northern Industrial Sales I cannot recommend as they wanted more than $1000 for about half of the fasteners required for the 2.2 and could not acquire the other fasteners.</p> |
+| B     | *empty* | <p><br></p> |
+| C     | *empty* | <p><br></p> |
+| D     | *empty* | <p><br></p> |
+| E     | *empty* | <p><br></p> |
+
+[Back to top](#001-fasteners)
+***
+
+
+### **CANADA BOLTS** 
+**Rating:**  
+Not enough user experience to be properly recommended.    
+**Store location:**  
+Online sales company only    
+**Website:**  
+[canadabolts.ca](https://canadabolts.ca/)  
+*Last updated: 2021/03/17*
+<!--- Search was made on: 2021/xx/xx --->
+ 
+| USER  | SERIAL                                                     | REPLY                                                                  |
+|:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
+| A     | V2 (1x)                                                    | <p>Has anyone ordered fasteners from this place:<br>I ended up not ordering from them<br>the prices were insanely high</p> |
+| B     | *empty* | <p><br></p> |
+| C     | *empty* | <p><br></p> |
+| D     | *empty* | <p><br></p> |
+| E     | *empty* | <p><br></p> |
+
+[Back to top](#001-fasteners)
+***
+
+   
 ### **EMPTY SPOT** 
 **Rating:**  
 x    
@@ -312,29 +361,6 @@ x
 <!---***
 
   
-### **EMPTY SPOT** 
-**Rating:**  
-x    
-**Store location:**  
-x  
-**Website:**  
-[x](x)  
-*Last updated: 2021/xx/xx*
-<!--- Search was made on: 2021/xx/xx ---0>
- 
-| USER  | SERIAL                                                     | REPLY                                                                  |
-|:-----:|:----------------------------------------------------------:| :--------------------------------------------------------------------- |
-| A     |                | <p><br></p> |
-| B     |                | <p><br></p> |
-| C     |                | <p><br></p> |
-| D     |                | <p><br></p> |
-| E     |                | <p><br></p> |
-
-[Back to top](#001-fasteners)
-***
---->
-
-<!---  
 ### **EMPTY SPOT** 
 **Rating:**  
 x    
